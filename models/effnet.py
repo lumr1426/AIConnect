@@ -1,3 +1,4 @@
+# new 주석 in effnet.py
 from torch import nn
 import timm
 
